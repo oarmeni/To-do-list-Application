@@ -1,0 +1,3 @@
+﻿  to do list application.cpp
+C:\Users\ouran\OneDrive\Υπολογιστής\Beksamino\Cpp\to do list application\to do list application.cpp(160,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  to do list application.vcxproj -> C:\Users\ouran\OneDrive\Υπολογιστής\Beksamino\Cpp\to do list application\x64\Debug\to do list application.exe
